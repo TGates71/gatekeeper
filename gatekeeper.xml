@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updateserver>
+	<latestversion>102</latestversion>
+	<downloadurl>http://zppy-repo.mach-hosting.com/repo/gatekeeper.zpp</downloadurl>
+	<desc>Gatekeeper is a module that enables you (the server administrator) to easily view and change your Sentora server's web service (XMWS) API key.</desc>
+	<updatedesc>Fixed layout.</updatedesc>
+	<authorname>Bobby Allen</authorname>
+	<authoremail>bobbyallen.uk@gmail.com</authoremail>
+	<authorurl>http://www.sentora.org</authorurl>
+	<ostype>all</ostype>
+</updateserver>
